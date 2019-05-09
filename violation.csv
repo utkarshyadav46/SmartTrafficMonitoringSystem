@@ -1,0 +1,42 @@
+Vid,LP,lx1,ly1,lx2,ly2,vx,vy,vh,vw,make,body_type,color,model
+
+
+
+Case 101.png,ARL0269,178,611,271,637,53,395,343,343,renault,sedan-compact,black,renault_sandero
+Case 115.png,AVM1613,839,607,938,640,704,379,368,368,renault,sedan-compact,silver-gray,renault_sandero
+Case 147.png,AHG0799,820,638,912,667,692,421,348,348,volkswagen,sedan-compact,white,honda_brio
+Case 18.png,QJ6805,1725,241,1789,266,1637,94,240,240,suzuki,sedan-compact,silver-gray,renault_logan
+Case 192.png,ALL2997,1553,464,1642,499,1424,250,347,347,suzuki,sedan-compact,white,volkswagen_golf
+Case 206.png,AWE2884,1413,509,1496,535,1324,349,260,260,renault,sedan-compact,silver-gray,nissan_march
+Case 209.png,AWE2884,1234,207,1298,229,1157,73,218,218,nissan,sedan-compact,silver-gray,nissan_march
+Case 224.png,ED2809,223,644,310,672,85,417,361,361,tata,sedan-compact,silver-gray,opel_meriva
+Case 245.png,AUN1502,1559,544,1645,577,1444,351,315,315,honda,sedan-compact,black,honda_fit
+Case 268.png,AHX7300,1402,530,1486,555,1314,370,260,260,fiat,sedan-compact,red,fiat_uno
+Case 290.png,AYG294,1661,174,1721,203,1560,14,261,261,renault,sedan-compact,black,renault_logan
+Case 40.png,AVQ2381,1334,303,1411,329,1241,142,261,261,chevrolet,sedan-compact,white,chevrolet_celta
+Case 49.png,MDS9927,1365,449,1441,475,1272,288,261,261,chevrolet,sedan-compact,white,nissan_march
+Case 52.png,AJD8004,850,951,969,979,731,723,357,357,hyundai,suv-standard,black,hyundai_santa-fe
+Case 54.png,AJO8004,812,591,911,624,675,359,374,374,hyundai,suv-standard,black,hyundai_santa-fe
+Case 570.png,AUY1857,1640,927,1749,963,1508,696,373,373,renault,sedan-compact,white,renault_sandero
+Case 577.png,AUY1857,1545,755,1639,790,1418,541,347,347,renault,sedan-compact,white,renault_sandero
+Case 657.png,AUY1857,1470,626,1561,657,1359,432,314,314,renault,sedan-compact,white,renault_sandero
+Case 669.png,AUY1857,1451,602,1539,628,1365,442,260,260,renault,sedan-compact,white,renault_sandero
+Case 675.png,AUY1857,1401,501,1478,531,1299,328,282,282,renault,sedan-compact,white,renault_sandero
+Case 697.png,AFQ5554,1771,272,1835,296,1686,128,234,234,renault,sedan-compact,silver-gray,renault_sandero
+Case 710.png,AYQ1952,1201,127,1266,149,1129,0,208,208,renault,suv-crossover,black,renault_duster
+Case 713.png,AYD1952,1154,36,1214,68,1105,0,158,158,renault,sedan-standard,silver-gray,renault_duster
+Case 719.png,AVY606,773,287,848,310,679,124,261,261,volkswagen,sedan-compact,black,volkswagen_up
+Case 723.png,AVV6036,761,153,826,171,686,20,213,213,volkswagen,sedan-compact,black,volkswagen_fox
+Case 729.png,AWE1427,1610,120,1668,143,1537,0,203,203,dodge,van-mini,red,fiat_uno
+Case 734.png,AWE1427,1504,18,1554,47,1469,0,120,120,nissan,sedan-compact,white,nissan_versa
+Case 747.png,ATG7878,1745,179,1808,205,1656,32,240,240,ford,sedan-compact,silver-gray,ford_focus
+Case 752.png,ATG7878,1598,48,1652,69,1566,0,118,118,ford,sedan-compact,silver-gray,ford_fiesta
+Case 757.png,AYD8871,1275,264,1347,289,1180,103,261,261,mazda,van-mini,silver-gray,mazda_biante
+Case 777.png,ERF4296,151,725,258,753,20,493,369,369,nissan,sedan-compact,black,chevrolet_astra
+Case 791.png,CRF4296,379,61,442,76,346,0,128,128,chevrolet,sedan-standard,silver-gray,nissan_versa
+Case 80.png,APN7771,1494,555,1587,587,1384,362,314,314,ford,sedan-compact,silver-gray,ford_fiesta
+Case 803.png,APS317,145,636,229,657,44,456,285,285,volkswagen,sedan-compact,black,volkswagen_golf
+Case 812.png,APS3175,308,177,378,191,244,53,197,197,volkswagen,sedan-compact,black,volkswagen_golf
+Case 816.png,AHT5584,838,193,905,215,754,48,234,234,ford,truck-standard,white,mitsubishi_l200
+Case 821.png,ASK0954,1164,103,1223,122,1104,0,178,178,volkswagen,sedan-compact,black,renault_sandero
+Case 84.png,AP0905,812,537,907,557,734,379,252,252,renault,van-mini,gold-beige,renault_scenic
