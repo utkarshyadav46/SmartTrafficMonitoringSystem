@@ -22,10 +22,5 @@ This is our final year project. It is based on the multiple concept of multi thr
 ![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/vehicle_billing.png?raw=true)
 
 
-
-#### 4. QR Code Generation
-![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/Application.png?raw=true)
-
-
-#### 5. Paymnet Page after QR Scanner
+#### 4. Paymnet Page after QR Scanner
 ![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/fine_payment.png?raw=true)
