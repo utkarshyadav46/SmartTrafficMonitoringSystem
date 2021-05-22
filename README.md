@@ -10,13 +10,22 @@ This is our final year project. It is based on the multiple concept of multi thr
 ![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/Application.png?raw=true)
 
 
-#### Application 
+#### 1.  Toll Fare Collecion   
 
+![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/tollprocessing.png?raw=true)
+
+
+#### 2. Traffic Light Violation
+![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/traffic_violation.png?raw=true)
+
+#### 3. Smart Billing Generation
+![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/vehicle_billing.png?raw=true)
+
+
+
+#### 4. QR Code Generation
 ![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/Application.png?raw=true)
 
 
-#### Application 
-![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/Application.png?raw=true)
-
-#### Application 
-![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/Application.png?raw=true)
+#### 5. Paymnet Page after QR Scanner
+![alt text](https://github.com/utkarshyadav46/SmartTrafficMonitoringSystem/blob/master/img/fine_payment.png?raw=true)
